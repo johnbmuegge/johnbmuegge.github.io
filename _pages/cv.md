@@ -1,11 +1,14 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+<p>
+  <a href="{{ '/files/cv.pdf' | relative_url }}">Download CV</a>
+</p>
 
 <iframe
   src="{{ '/files/cv.pdf' | relative_url }}"
@@ -14,7 +17,3 @@ redirect_from:
   height="900"
   style="border: 0"
 ></iframe>
-
-<p>
-  <a href="{{ '/files/cv.pdf' | relative_url }}">Download the CV PDF</a>
-</p>
