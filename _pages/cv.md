@@ -7,11 +7,11 @@ redirect_from:
   - /resume
 ---
 <p>
-  <a href="{{ '/files/cv.pdf' | relative_url }}">Download CV</a>
+  <a href="{{ '/files/CV.pdf' | relative_url }}">Download CV</a>
 </p>
 
 <iframe
-  src="{{ '/files/cv.pdf' | relative_url }}"
+  src="{{ '/files/CV.pdf' | relative_url }}"
   title="CV"
   width="100%"
   height="900"
